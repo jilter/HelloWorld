@@ -1,1 +1,1 @@
-﻿test2 test2  AAABBB
+﻿test2  AAABBB
